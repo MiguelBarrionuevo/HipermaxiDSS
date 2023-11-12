@@ -1,10 +1,10 @@
 # Bitácora de Cambios
 
-## [Fecha]
+## [12/11/2023]
 
 ### Cambios Realizados
 
-- [Acción 1]: Descripción breve.
+- [Creación Dashboard Clientes]: Creación de panel para el servicio personalizado de un Cliente en Caja.
 - [Acción 2]: Descripción breve.
 
 ### Responsable
