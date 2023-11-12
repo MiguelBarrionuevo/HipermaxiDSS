@@ -5,13 +5,14 @@
 ### Cambios Realizados
 
 - [Creación Dashboard Clientes]: Creación de panel para el servicio personalizado de un Cliente en Caja.
-- [Acción 2]: Descripción breve.
+- [Modificación Dashboard Ventas]: Agregación de algunos objetos visuales en Dashboard de Ventas.
+- [Modificación Dashboard Inventario]: Agregación de algunos objetos visuales en Dashboard de Inventario.
 
 ### Responsable
 
-- [Nombre del responsable]
+- [Oscar Alfredo Menacho Silva]
 
-## [Fecha]
+## [12/11/2023]
 
 ### Cambios Realizados
 
@@ -20,4 +21,4 @@
 
 ### Responsable
 
-- [Nombre del responsable]
+- [Miguel Angel Barrionuevo Tiñini]
