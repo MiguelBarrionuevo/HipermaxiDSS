@@ -1,23 +1,26 @@
 # Bitácora de Cambios
 
-## [12/11/2023]
+## [19/11/2023]
 
 ### Cambios Realizados
 
-- [Creación Dashboard Clientes]: Creación de panel para el servicio personalizado de un Cliente en Caja.
-- [Modificación Dashboard Ventas]: Agregación de algunos objetos visuales en Dashboard de Ventas.
-- [Modificación Dashboard Inventario]: Agregación de algunos objetos visuales en Dashboard de Inventario.
+- **[Notificación Inventario]:** Finalización de la creación de la interfaz para mostrar las notificaciones sobre bajos niveles de inventario en Python.
+- **[Recomendaciones Inventario]:** Finalización de la creación del panel de recomendaciones para optimizar la estrategia de inventario en Python.
+- **[Dahboard Inventario]:** Finalización del Dashboard de Inventario.
+- **[Dahboard Ventas]:** Finalización del Dashboard de Ventas.
+- **[Seguimiento de Inventario]:** Objeto visual creado con toda la información necesaria incluyendo, claramente, el seguimiento de los niveles de inventario.
 
 ### Responsable
 
 - [Oscar Alfredo Menacho Silva]
 
-## [12/11/2023]
+## [19/11/2023]
 
 ### Cambios Realizados
 
-- [Acción 1]: Descripción breve.
-- [Acción 2]: Descripción breve.
+- **[Notificaciones Inventario]:** Inicio de la creación de una interfaz para mostrar las notificaciones sobre bajos niveles de inventario en Python.
+- **[Recomendaciones Inventario]:** Inicio de la creación de un panel de recomendaciones para optimizar la estrategia de inventario en Python.
+- **[Bitácora de Auditoria]:** Finalización de la implementación de la Bitácora de Auditoria.
 
 ### Responsable
 
